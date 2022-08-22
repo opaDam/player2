@@ -154,7 +154,7 @@ function nextTrack() {
     track_index += 1;
   else track_index = 0;
   loadTrack(track_index);
-  playTrack();
+  // playTrack();
 }
 
 function prevTrack() {
