@@ -25,70 +25,70 @@ let track_list = [
     id: 0,
     name: "Take on Me",
     artist: "A-ha",
-    image: "https://opadam.github.io/map/img/Take_on_Me.jpg",
+    image: "https://opadam.github.io/map/img/Take_on_Me",
     path: "https://opadam.github.io/map/map/a1"
   },
   {
     id: 1,
     name: "You (DU)",
     artist: "Bouke",
-    image: "https://opadam.github.io/map/img/You_DU.jpg",
+    image: "https://opadam.github.io/map/img/You_DU",
     path: "https://opadam.github.io/map/map/a2"
   },
   {
     id: 2,
     name: "Country Boy",
     artist: "Alan Jackson",
-    image: "https://opadam.github.io/map/img/Country_Boy.jpg",
+    image: "https://opadam.github.io/map/img/Country_Boy",
     path: "https://opadam.github.io/map/map/a3"
   },
   {
     id: 3,
     name: "For the Good Times",
     artist: "Albert West",
-    image: "https://opadam.github.io/map/img/For_the_Good_Times.jpg",
+    image: "https://opadam.github.io/map/img/For_the_Good_Times",
     path: "https://opadam.github.io/map/map/a4"
   },
   {
     id: 4,
     name: "Rain And Tears",
     artist: "Aphrodites Child",
-    image: "https://opadam.github.io/map/img/Rain_And_Tears.jpg",
+    image: "https://opadam.github.io/map/img/Rain_And_Tears",
     path: "https://opadam.github.io/map/map/a5"
   },
   {
     id: 5,
     name: "You Drive Me Crazy",
     artist: "Shakin Stevens",
-    image: "https://opadam.github.io/map/img/Shakin_Stevens.jpg",
+    image: "https://opadam.github.io/map/img/Shakin_Stevens",
     path: "https://opadam.github.io/map/map/a6"
   },
   {
     id: 6,
     name: "Dance For Ever More",
     artist: "Si Cranstoun",
-    image: "https://opadam.github.io/map/img/Si_Cranstoun.jpg",
+    image: "https://opadam.github.io/map/img/Si_Cranstoun",
     path: "https://opadam.github.io/map/map/a7"
   },
   {
     id: 7,
     name: "Feel Free",
     artist: "Bellamy Brothers",
-    image: "https://opadam.github.io/map/img/Feel_Free.jpg",
+    image: "https://opadam.github.io/map/img/Feel_Free",
     path: "https://opadam.github.io/map/map/a8"
   },
   {
     id: 8,
     name: "Come A Little Bit Closer",
     artist: "Jay & the Americans",
-    image: "https://opadam.github.io/map/img/Come_a_Little_Bit_Closer_Single.jpg",
+    image: "https://opadam.github.io/map/img/Come_a_Little_Bit_Closer_Single",
     path: "https://opadam.github.io/map/map/a9"
   },
   {
     id: 9,
     name: "Candida",
     artist: "Tony Orlando",
-    image: "https://opadam.github.io/map/img/Candida.jpg",
+    image: "https://opadam.github.io/map/img/Candida",
     path: "https://opadam.github.io/map/map/a10"
   },
 ];
