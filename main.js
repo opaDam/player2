@@ -164,7 +164,7 @@ function prevTrack() {
     track_index -= 1;
   else track_index = track_list.length;
   loadTrack(track_index);
-  playTrack();
+  // playTrack();
   pauseTrack();
 }
 
