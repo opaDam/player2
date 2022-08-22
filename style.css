@@ -28,6 +28,7 @@ body {
   background-image: url("https://opadam.github.io/map/img/Rain_And_Tears.jpg");
   background-size: cover;
   border-radius: 10%;
+  border: 5px double silver;
 }
 
 .now-playing {
