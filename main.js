@@ -165,6 +165,7 @@ function prevTrack() {
   else track_index = track_list.length;
   loadTrack(track_index);
   playTrack();
+  pauseTrack();
 }
 
 function seekTo() {
